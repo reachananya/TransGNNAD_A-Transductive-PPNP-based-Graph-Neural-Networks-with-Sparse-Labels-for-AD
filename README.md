@@ -1,0 +1,1 @@
+# TransGNNAD_A-Transductive-PPNP-based-Graph-Neural-Networks-with-Sparse-Labels-for-AD
