@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official implementation of "TransGNN-AD: A Transductive PPNP based Graph Neural Networks with Sparse Labels for Early Alzheimer’s Detection" (IEEE JBHI 2025).
+Official implementation of "TransGNN-AD: A Transductive PPNP based Graph Neural Networks with Sparse Labels for Early Alzheimer’s Detection".
 
 ## Overview
 
